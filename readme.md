@@ -5,7 +5,7 @@
 ![novo-projeto](./assets/ftcopa.png)
 
 [Clique aqui para acessar]
-🔎()
+🔎(https://paulos2henrique.github.io/NLW-Copa/)
 
 
 > Projeto construido no evento "NLW Copa" da Rocketseat.
@@ -17,7 +17,7 @@
 - JS
 - Git e Github
 
-## Meu quarto projeto para o Github, especial copa 2022!---🇧🇷🏆🥳---
+## Meu quarto projeto para o Github, especial copa 2022!--🇧🇷🏆🥳
 
 ## 👾Contato
 

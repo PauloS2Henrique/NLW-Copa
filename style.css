@@ -49,6 +49,7 @@ body {
   width: fit-content;
   margin: auto;
   padding-top: 52px;
+  margin-bottom: 50px;
 }
 
 header {
@@ -159,4 +160,5 @@ ul {
     max-width: 1100px;
     flex-direction: row;
   }
+
 }
